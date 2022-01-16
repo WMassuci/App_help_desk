@@ -1,0 +1,7 @@
+
+4#computador sem internet#Hardware#conector de rede sem funcionamento
+1#erro de impressão#Impressora#nao funciona o botao de imprimir
+3#software sap#Software#sem funcionamento
+1#erro internet#Rede#internet nao pega
+1#computador nao pega a internet#Rede#meu pc nao tem internet
+1#mouse quebrado#Impressora#akass
